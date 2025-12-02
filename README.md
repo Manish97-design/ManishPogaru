@@ -174,7 +174,7 @@ Product Manager/Owner with **7+ years** of experience driving user-centric produ
 
 ### 💡 *"Building products that users love, powered by data-driven decisions"*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Manish97-design&color=blueviolet&style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
